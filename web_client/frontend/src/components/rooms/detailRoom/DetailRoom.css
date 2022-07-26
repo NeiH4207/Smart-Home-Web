@@ -1,0 +1,139 @@
+.body{
+    background-color: rgb(255, 255, 255);
+}
+.detail-room .ant-card{
+    width: 92%;
+    height: 100px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border-radius: 20px;
+    padding-left: 5px;
+}
+.detail-room .ant-card-body {
+    padding: 5px;
+}
+.detail-room .ant-switch{
+    margin-bottom: 10px;
+    left: 22px;
+    top: -18px;
+}
+.detail-room .ant-card-cover{
+    size: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px ;
+}
+
+.detail-2 .ant-card{
+    border: 0px solid #fff;
+    margin-left: 15px;
+    justify-content: center;
+}
+
+.temp-3 .ant-card{
+    width: 98%;
+    margin-top: 15px;
+    height: 400px;
+}
+
+.detail-3 .ant-card{
+    border: 1px solid #f0f0f0;
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 97%;
+    height: 400px;
+}
+
+.image-room{
+    margin-top: 15px;
+    height: 100%;
+    border-radius: 400px;
+}
+.image-room .ant-carousel{
+    height: 100%;
+}
+.carousel-1 {
+    background-image: url('./image/image2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: "160px",
+}
+.carousel-2 {
+    background-image: url('./image/image1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: "160px",
+}
+.carousel-3{
+    background-image: url('./image/image3.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: "160px",
+}
+.carousel-4 {
+    background-image: url('./image/image4.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: "160px",
+}
+
+.antd-pro-charts-pie-pie {
+    position: absolute;
+    left: -160px;
+    top: -10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .icon-air {
+      animation: App-logo-spin infinite 2s linear;
+    }
+  }
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .antd-pro-charts-pie-total{
+    /* font-size: 20px; */
+  }
+  .antd-pro-charts-pie-pie .antd-pro-charts-pie-total > h4 {
+    
+    height: 10px;
+}
+
+.info-room{
+    box-shadow: 0 0.0625rem 20px 0 rgb(0, 0, 0);
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 15px;
+    height: 400px;
+    background: #fff;
+    color: rgb(0, 0, 0);
+}
+.lock{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.icon-lock{
+    cursor: pointer;
+    position: absolute;
+    left: 60px;
+    bottom: 26px;
+}
+.title-detail{
+    text-align: center;
+    background-color: rgb(96, 97, 97);
+    border-radius: 15px;
+    width: 100px;
+    margin-top: 20px;
+    width: 92%;
+    color: #fff;
+}
+

@@ -1,0 +1,30 @@
+GET http://localhost:4000/subscribers
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhc2VzdGFyc0BnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE2MDQxNTExMTd9.Xc65JgjOPNWw_PATe_YtzhdFtsTYUW13zBfuJo4mjpA
+
+###
+
+GET http://localhost:4000/subscribers/5f94dd01ea397603b4f989d2
+
+###
+
+POST http://localhost:4000/subscribers
+Content-Type: application/json
+
+
+{
+    "name": "Amazing Person dvC",
+    "subscribedToChannel": "Web Dev Simplified"
+}
+
+###
+
+PATCH http://localhost:4000/subscribers/5f94dff0846f821d00c537aa
+Content-Type: application/json
+
+{
+    "name": "New Name"
+}
+
+###
+
+DELETE http://localhost:4000/subscribers/5f94dd01ea397603b4f989d2

@@ -1,0 +1,13 @@
+.ant-card-body{
+    width: 200px !important;
+}
+.deveices .ant-card {
+    width: 300 ;
+    padding-left: 10px ;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    margin-bottom: 20px ;
+    margin-right: 20px;
+    border-radius: 20px;
+}

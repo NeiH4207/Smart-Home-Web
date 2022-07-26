@@ -1,0 +1,8 @@
+.home .ant-card-body{
+    width: 540px !important;
+    height: 310px !important;
+    border-radius: 5px;
+}
+.home .ant-card{
+    border-radius: 5px;
+}

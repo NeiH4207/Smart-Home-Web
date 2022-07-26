@@ -1,0 +1,2 @@
+GET http://localhost:4000/api/sensor
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhc2VzdGFyc0BnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE2MDQxNTExMTd9.Xc65JgjOPNWw_PATe_YtzhdFtsTYUW13zBfuJo4mjpA

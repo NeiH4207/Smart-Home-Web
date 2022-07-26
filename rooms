@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61dc58bd86a3deeb1e33b4fb"
+  },
+  "id": 1,
+  "name": "living room"
+},{
+  "_id": {
+    "$oid": "61dc58bd86a3deeb1e33b4fc"
+  },
+  "id": 2,
+  "name": "bedroom"
+},{
+  "_id": {
+    "$oid": "61dc58bd86a3deeb1e33b4fd"
+  },
+  "id": 3,
+  "name": "kitchen"
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "61dc5b2586a3deeb1e33b505"
+  },
+  "humidityAir": 100,
+  "temperature": 20,
+  "createdDate": "2021-12-20T15:22:04.426+00:00",
+  "modifiedDate": "2021-12-20T15:22:04.426+00:00"
+},{
+  "_id": {
+    "$oid": "61dc5b2586a3deeb1e33b506"
+  },
+  "humidityAir": 100,
+  "temperature": 21,
+  "createdDate": "2021-12-20T15:22:04.426+00:00",
+  "modifiedDate": "2021-12-20T15:22:04.426+00:00"
+}]

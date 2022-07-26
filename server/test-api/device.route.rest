@@ -1,0 +1,24 @@
+GET http://localhost:4000/devices
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhc2VzdGFyc0BnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE2MDQxNTExMTd9.Xc65JgjOPNWw_PATe_YtzhdFtsTYUW13zBfuJo4mjpA
+
+###
+
+GET http://localhost:4000/devices/1
+
+###
+
+PATCH http://localhost:4000/devices/1
+Content-Type: application/json
+
+{
+    "status": "on"
+}
+
+###
+
+ID :1  ----- Quạt phòng ngủ
+ID :2  ----- Đèn phòng khách  
+ID :3  ----- Đèn phòng khách 
+ID :6  ----- Đèn nhà bếp 
+ID :10 ----- Đèn phòng ngủ 
+ID :17 ----- Khóa cửa nhà bếp

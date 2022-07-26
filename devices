@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61dc561786a3deeb1e33b4ee"
+  },
+  "id": 1,
+  "name": "fan",
+  "room_id": 1,
+  "status": "off"
+},{
+  "_id": {
+    "$oid": "61dc561786a3deeb1e33b4ef"
+  },
+  "id": 2,
+  "name": "light",
+  "room_id": 2,
+  "status": "off"
+},{
+  "_id": {
+    "$oid": "61dc561786a3deeb1e33b4f0"
+  },
+  "id": 3,
+  "name": "light",
+  "room_id": 3,
+  "status": "off"
+},{
+  "_id": {
+    "$oid": "61dc561786a3deeb1e33b4f1"
+  },
+  "id": 6,
+  "name": "fan",
+  "room_id": 1,
+  "status": "off"
+},{
+  "_id": {
+    "$oid": "61dc567d86a3deeb1e33b4f3"
+  },
+  "id": 10,
+  "name": "light",
+  "room_id": 2,
+  "status": "off"
+},{
+  "_id": {
+    "$oid": "61dc56c586a3deeb1e33b4f5"
+  },
+  "id": 17,
+  "name": "lock",
+  "room_id": 3,
+  "status": "off"
+}]
